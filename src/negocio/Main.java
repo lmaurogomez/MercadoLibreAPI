@@ -1,4 +1,4 @@
-package com.company;
+package negocio;
 
 public class Main {
 
